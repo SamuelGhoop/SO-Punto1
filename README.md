@@ -1,4 +1,5 @@
 # Punto 1 - Despliegue FastAPI en AWS Lambda con Docker
+Link Chat: https://claude.ai/share/20fa21b4-a01a-4fb6-b069-793a45575012
 
 ## Descripción
 Despliegue de una aplicación FastAPI empaquetada en Docker y desplegada en AWS Lambda usando ECR como container registry.
